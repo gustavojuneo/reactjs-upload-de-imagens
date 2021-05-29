@@ -6,6 +6,7 @@ import {
   Skeleton,
   SkeletonText,
 } from '@chakra-ui/react';
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { useState } from 'react';
 
 interface Card {
